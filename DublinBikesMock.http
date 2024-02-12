@@ -1,0 +1,6 @@
+@DublinBikesMock_HostAddress = http://localhost:5199
+
+GET {{DublinBikesMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
